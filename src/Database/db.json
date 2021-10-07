@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "MS Dhoni",
+     "age": 21,
+     "gender": "Male",
+     "city": "Ranchi",
+      "id": 1
+    },
+    {
+      "name": "Mohd Shami",
+     "age": 24,
+     "gender": "Male",
+     "city": "Odisa",
+      "id": 4
+    },
+    {
+      "name": "KL Rahul",
+      "age": 28,
+     "gender": "Male",
+     "city": "Mumbai",
+      "id": 5
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "age": 25,
+     "gender": "Male",
+     "city": "Delhi",
+      "id": 6
+    }
+  ]
+}
